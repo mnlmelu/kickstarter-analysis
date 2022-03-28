@@ -15,7 +15,7 @@ A project overview is a detailed description of a project's goals and objectives
 
 ### Analysis of Outcomes Based on Launch Date
 
-![This is an image](C:\Users\Manuel\OneDrive - Grupo Empresarial Turbamex SA de CV\Documents\GitHub\kickstarter-analysis\Outcomes_vs_Goals.png)
+![This is an image](Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
