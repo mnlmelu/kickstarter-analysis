@@ -42,7 +42,8 @@ The next graph is comparing **Outcomes vs. Goals** of the whole categories and s
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  - The Theater category have a great number of successful projects that were funded, from a total of 1,369, 839 requests were successful. This is more than the half of the total.
+  - The Theater category have a great number of successful projects that were funded, from a total of 1,369,
+   - 839 requests were successful. This is more than the half of the total.
   - As we can see the best months to launch a Theater campaign are *May*, *June*, or *July* (in that order), they are the most successful months of the analysis. In addition, as a recomendation, the month that shouldn't been consider is *December*, because apart from the fact that it is the lowest of the success rate, it is almost equal to the results that failed; 37 > 35 - a difference of 2 campaigns. 
 
 - What can you conclude about the Outcomes based on Goals?
